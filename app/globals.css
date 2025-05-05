@@ -121,7 +121,6 @@
   }
 }
 
-
 .button {
   @apply bg-red-600 text-white;
   @apply hover:bg-red-900 focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2;
